@@ -1,6 +1,6 @@
 ## About Me
 
-What's up? hey\|you
+Write about myself here!!!
 
 I am an awesome student at Lehigh, you should hire me!
 
@@ -32,7 +32,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**Internship at [Golden Investment S.A](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
