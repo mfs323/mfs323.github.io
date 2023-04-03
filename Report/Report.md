@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---
 # Summary
 
 The main focus was to analyze stock returns after a specified period of time with regards to text sentiment analysis and record any correlations between both variables. This would allow one to determine if using a text sentiment analysis would be useful for finding positive or negative stock returns. In this assignment I conducted data cleaning, returns analysis, and a text sentiment analysis across S&P500 10-k files. In the end, it was determined that the different variables showed greater variation in the data when comparing the Day 2 and Day 10 returns and contextual analysis for all ten variables. Variation was lower for the chosen topics while the general finance dictionaries like ML and LM had less variance overall, however they did not seem to have a greater impact than the chosen topics. However they set the average for the sentiment analysis scores with comparison to the returns of each stock. However these finding are not completely conclusive or certain as most scatterplots do not show much variation between each other, therefore a concrete conclusion was not gathered from this analysis. 
