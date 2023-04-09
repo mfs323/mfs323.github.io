@@ -30,8 +30,6 @@ _**Internship at [Golden Investment S.A](https://donbowen.github.io/teamproject/
 
 ● Directed a team project that consisted of calculating the new break-even point for the firm, which was then approved and adopted by the board of directors, allowing them to determine new possible investment projects.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ## Career Objectives
