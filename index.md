@@ -17,8 +17,7 @@ I am a student at Lehigh University studying Finance and Business Analytics. I a
 
 _**[Natural language processing 10-Ks to identify sentiment](Report/Report.md)**_
 
-Write about the 10-k midterm project here.
-
+The main concept of this assignment is to conduct sentiment analysis across various 10-k reports posted on the SEC EDGAR website. By using a multitude of lists and dictionaries. The main concept is to determine whether some words are able to predict or tell us more about the stock's returns two to ten days after the filing has been posted publicly. In addition, calculating the returns for both time frames and merging it with the sentiment analysis that was conducted across firms included in the S&P500. 
 <img src="Report/output_15_1.png"/>
 
 ---
