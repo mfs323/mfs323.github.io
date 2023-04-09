@@ -2,7 +2,6 @@
 
 I am a student at Lehigh University studying Finance and Business Analytics. I am excited to pursue a career in the field of finance. One of my favorite hobbies is playing tennis, I really enjoy the pace of the game and is a great sport to play. I am known for my ability to keep calm during high pressure situations and being a fast learner which has allowed me to achieve my current goals, however I am always looking to work in a team and achieve team goals. 
 
-I am an awesome student at Lehigh, you should hire me!
 
 <!-- Upload your own photo and change the path -->
 
