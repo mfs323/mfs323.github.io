@@ -23,21 +23,13 @@ Write about the 10-k midterm project here.
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 _**Internship at [Golden Investment S.A](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+● Managed a sales alliance with a food distribution company, Rappi, in order to reduce transaction fees for customers by 3%. This strategy resulted in additional sales and increased profitability for Golden Investment S.A and Rappi.
 
----
+● Analyzed current restaurant sales for Golden Investment S.A which led to an alliance with an international bank, BBVA, resulting in special discounts for the latter’s executive clients.
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+● Directed a team project that consisted of calculating the new break-even point for the firm, which was then approved and adopted by the board of directors, allowing them to determine new possible investment projects.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -45,15 +37,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Securing a financal analyst position at a dynamic and fast-paced company, where I am able to leverage my experience in financial analysis, finanical reporting, and improve the operational efficiency of the firm. My abilities in financial modeling and forecasting will allow me to identify specific trends and opportunities of growth of the company.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+One of my favorite hobbies is to play tennis, I really enjoy the fast pace of the sport as well as playing with teammates. I beliebe communication is key in this sport and is one of the most competitive, and I am always looking for ways to improve. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
