@@ -22,7 +22,7 @@ The main concept of this assignment is to conduct sentiment analysis across vari
 
 ---
 
-_**Internship at [Golden Investment S.A]**_
+_**Internship at Golden Investment S.A**_
 
 ● Managed a sales alliance with a food distribution company, Rappi, in order to reduce transaction fees for customers by 3%. This strategy resulted in additional sales and increased profitability for Golden Investment S.A and Rappi.
 
