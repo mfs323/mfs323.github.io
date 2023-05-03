@@ -41,5 +41,4 @@ Securing a financal analyst position at a dynamic and fast-paced company, where 
 One of my favorite hobbies is to play tennis, I really enjoy the fast pace of the sport as well as playing with teammates. I beliebe communication is key in this sport and is one of the most competitive, and I am always looking for ways to improve. 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
