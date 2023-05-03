@@ -12,6 +12,11 @@ The main concept of this assignment is to conduct sentiment analysis across vari
 <img src="Report/output_15_1.png"/>
 
 ---
+_**[Analyzing Stock Returns During the Russo-Ukrainian War](https://russiaukrainewarindustryreturns.streamlit.app/)**_
+
+The main concept of this assignment is to "Determine the extent to which reported key event dates in the Russia-Ukrainian war affected the returns for major firms in the Energy, Food, Transport, Semiconductors, and Metal industries from the start of the conflict until today." By downloading stock prices for the five major industries firms' recorded in Yahoo Finance. Daily, excess, and cumulative stock returns were calculated in order to compare them to the S&P 500 returns for this period and determine significant trends of how recorded key events during the war impacted industries.
+
+---
 
 _**Internship at Golden Investment S.A**_
 
